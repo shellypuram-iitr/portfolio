@@ -1,0 +1,117 @@
+html{
+    scroll-behavior:smooth;
+   
+}
+
+
+body{
+    background-color: rgb(27, 38, 55);
+}
+/* rgb(255, 0, 102) */
+
+h5{
+    color: rgb(227, 233, 242);
+    margin: 5px ;
+    margin-left: 10px;
+    font-size: 35px;
+}
+.row{
+    margin: 5px;
+    color: rgb(227, 233, 242);;
+}
+
+.navigation-link{
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid rgb(255, 0, 102) ;
+    transition: 0.5s ease;
+}
+h2{
+color:  rgb(255, 0, 102);
+}
+h1{
+    color:  rgb(255, 0, 102);
+    }
+.main-container{
+min-height: 100vh;
+padding: 5rem;
+
+}
+
+.main_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_row h1{
+    font-size: 5rem;
+    color:rgb(255, 0, 102);
+}
+
+#about{
+    background-color: rgb(30, 49, 78);
+    border-radius: 0.5rem;
+}
+.image_gp{
+    display: block;
+    transition: all .5s;
+    backface-visibility: hidden;
+    filter: grayscale(.7);
+}
+
+.image_gp:hover{
+    transform: scale(1.05);
+    filter: none;
+}
+
+
+.btn-primary{
+    background-color: rgb(255, 0, 102);
+    border-color: rgb(255, 0, 102);
+}
+
+.btn-primary:hover{
+    background-color: rgb(228, 124, 166);
+    border-color: rgb(255, 0, 102);
+}
+
+.font-code{
+    color: rgb(255, 0, 102) ;
+}
+
+.font-social{
+    color: rgb(255, 0, 102) ;
+}
+.font-social:hover{
+    color:  rgb(228, 124, 166) ;
+   
+}
+
+.card-title{
+    color:rgb(27, 38, 55);
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    border-bottom: 8px solid rgb(255, 0, 102);
+}
+
+#contact{
+    background-color: rgb(30, 49, 78);
+}
+.media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid rgb(255, 0, 102);
+    border-radius: 0.5rem;
+  }
+  
