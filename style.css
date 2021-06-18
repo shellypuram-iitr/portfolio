@@ -23,7 +23,7 @@ h5{
 
 .navigation-link{
     border: 2px solid transparent;
-    font-size: larger;
+    font-size: 20px;
 }
 
 .navigation-link:hover{
@@ -118,5 +118,5 @@ padding: 5rem;
   }
   
   p{
-      font-size: larger;
+      font-size: 20px;
   }
