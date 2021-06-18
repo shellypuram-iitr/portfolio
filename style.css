@@ -23,6 +23,7 @@ h5{
 
 .navigation-link{
     border: 2px solid transparent;
+    font-size: larger;
 }
 
 .navigation-link:hover{
