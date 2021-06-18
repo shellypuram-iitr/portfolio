@@ -68,6 +68,17 @@ padding: 5rem;
     transform: scale(1.05);
     filter: none;
 }
+.img-fluid{
+    display: block;
+    transition: all .5s;
+    backface-visibility: hidden;
+    filter: grayscale(.7);
+}
+
+.img-fluid:hover{
+    transform: scale(1.05);
+    filter: none;
+}
 
 
 .btn-primary{
