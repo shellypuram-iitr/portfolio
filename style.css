@@ -1,11 +1,12 @@
 html{
     scroll-behavior:smooth;
-   
+    
 }
 
 
 body{
     background-color: rgb(27, 38, 55);
+    font-family: 'Nixie One', cursive;
 }
 /* rgb(255, 0, 102) */
 
